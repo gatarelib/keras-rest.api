@@ -17,7 +17,7 @@ $ pip install flask gevent requests
 Next, clone the repo:
 
 ```sh
-$ git clone https://github.com/gatarelib/Keras-rest-api.git
+$ git clone https://github.com/gatarelib/keras-rest.api.git
 ```
 
 ## Starting the Keras server
